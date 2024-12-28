@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OtobongEdemenang
+- 👋 Hi, I’m @Otobong
 - 👀 I’m interested in making new friends in the coding world
 - 🌱 I’m currently learning software Engineering as a beginner
 - 💞️ I’m looking at collaborating with great minds
